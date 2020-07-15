@@ -1,18 +1,19 @@
 # duiduipeng
 # 仿《探秘》
 
-![Screenshots](Images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-07-16 at 00.42.57.png)    
+![Screenshots](Images/01.png "Screenshots")    
 
-![Screenshots](Images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-07-16 at 00.42.44.png)    
+![Screenshots](Images/02.png "Screenshots")
 
-![Screenshots](Images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-07-16 at 00.43.26.png)    
+![Screenshots](Images/03.png "Screenshots")
 
-![Screenshots](Images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-07-16 at 00.43.34.png)    
+![Screenshots](Images/04.png "Screenshots")
 
-![Screenshots](Images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-07-16 at 00.44.04.png)    
+![Screenshots](Images/05.png "Screenshots")
 
-![Screenshots](Images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-07-16 at 00.43.52.png)    
+![Screenshots](Images/06.png "Screenshots")
 
-![Screenshots](Images/Simulator Screen Shot - iPhone SE (2nd generation) - 2020-07-16 at 00.43.49.png)    
+![Screenshots](Images/07.png "Screenshots")
+
 
 # 仅供学习，请勿商用
