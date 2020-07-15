@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://cwcblock.com/cn/assets/file/wallet-test/cwc_wallet_1.0.2.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://cwcblock.com/cn/assets/file/wallet-test/logo.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://cwcblock.com/cn/assets/file/wallet-test/logo.png</string>
+	</dict>
+	<key>method</key>
+	<string>enterprise</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.applepay.-</key>
+		<string>CWC_inhouse</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>DHTNF4N569</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>

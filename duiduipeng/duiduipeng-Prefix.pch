@@ -1,0 +1,87 @@
+//
+//  duiduipeng-Prefix.pch
+//  duiduipeng
+//
+//  Created by MAC on 2019/3/4.
+//  Copyright © 2019 MAC. All rights reserved.
+//
+
+#ifdef __OBJC__
+#ifndef duiduipeng_Prefix_pch
+#define duiduipeng_Prefix_pch
+
+
+#import <UIKit/UIKit.h>
+#import <CTool.h>
+#import <MJRefresh.h>
+#import "UserInfoManager.h"
+#import "CNetwork.h"
+#import "MBProgressHUD.h"
+#import <MJExtension.h>
+#import "AppDelegate.h"
+#import "TabBarViewController.h"
+#import "WMPageController.h"
+#import <UIImageView+WebCache.h>
+#import "DataManager.h"
+
+
+// 解决NSLog打印长文本被截断的问题
+#if DEBUG
+#define NSLog(format, ...) do {                                             \
+    printf("%s\n", [[NSString stringWithFormat:format, ##__VA_ARGS__] UTF8String]);           \
+} while (0)
+#else
+#define NSLog(format, ...) nil
+#endif
+
+// 多语言
+#define RCDLocalizedString(key) NSLocalizedStringFromTable(key, @"duiduipeng", nil)
+
+
+// 字体
+#define DINBold(A) [UIFont fontWithName:@"DIN-Bold" size:A]
+#define DINMedium(A) [UIFont fontWithName:@"DIN-Medium" size:A]
+
+// 常用
+#define kLineSize 1                                 // 分割线的宽度
+#define kBorderWidth 1                              // 描边大小
+#define kBorderColor cHexColor(0xE9E9E9)            // 描边颜色
+#define kRadiusSize 8                               // 圆角大小
+#define kSpaceSize 20                               // 边界距离
+#define kUser [UserInfoManager shareManager]        // 用户单例
+#define kData [DataManager shareManager]            // 数据存储单例
+#define kPool [AWSCognitoIdentityUserPool CognitoIdentityUserPoolForKey:@"UserPool"]
+#define kPriceRate (7.095)                          // 1美元=7.095人民币
+#define kDelegate (AppDelegate *)[UIApplication sharedApplication].delegate
+#define kReloadUnreadNumber @"更新未读消息"
+
+// 提示窗
+#define MBPS(V)           [MBProgressHUD showHUDAddedTo:V animated:YES];
+#define MBPH(V)           [MBProgressHUD hideHUDForView:V animated:YES];
+
+
+// 颜色
+#define Publie_Color cHexColor(0xd4237a)
+#define Background_Color cHexColor(0xF5F5F5)
+
+// 路径
+#define KPURL @"http://www.miyouchats.com:9080/"                            // API
+#define KIURL @"http://video-live-app.oss-cn-zhangjiakou.aliyuncs.com/"     // 图片视频资源
+
+//===========================常用字符串============================
+
+/**
+ 手机类型
+ */
+#define  IS_IPHONE (UI_USER_INTERFACE_IDIOM()==UIUserInterfaceIdiomPhone)
+#define  SCREEN_MAX_LENGTH (MAX(SCREEN_WIDTH,SCREEN_HEIGHT))
+#define  IS_IPHONE_4 (IS_IPHONE && SCREEN_MAX_LENGTH<568.0)
+#define  IS_IPHONE__5 (IS_IPHONE && SCREEN_MAX_LENGTH==568.0)
+#define  IS_IPHONE_6 (IS_IPHONE && SCREEN_MAX_LENGTH==667.0)
+#define  IS_IPHONE_6P (IS_IPHONE && SCREEN_MAX_LENGTH==736.0)
+#define  Is_IPHONE_X ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1125, 2436), [[UIScreen mainScreen] currentMode].size) : NO)
+
+
+#endif /* duiduipeng_Prefix_pch */
+#endif
+

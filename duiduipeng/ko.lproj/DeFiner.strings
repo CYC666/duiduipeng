@@ -1,0 +1,1260 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+//==========================================以下是融云IM==========================================
+
+
+"Close"="닫다";
+"conversation"="회화";
+"search"="수색";
+"contacts"="주소록";
+"discover"="발견";
+"me"="나";
+"start_chatting"="채팅 시작";
+"create_groups"="그룹 설립";
+"add_contacts"="친구추가";
+"add_friend_placeholder"="핸드폰 번호 설칭, 예: (86)137 ****";
+"cancel"="취고";
+"back"="되돌아가다";
+"mention_all"="@소유자";
+"group_information_x"="그룹 메시지(%@)";
+"group_information"="그룹 메시지";
+"group_members_x"="그룹 구성원(%lu)";
+"all_group_member_z"="전군 구성원(%@)";
+"portrait"="프로필사진";
+"group_name"="그룹명";
+"total_related_message"="총 %ld개 관련 채팅 기록";
+"chat_history"="채팅기록";
+"delete_and_exit"="삭제 및 탈퇴";
+"confirm"="확인";
+"done"="완성";
+"detailed_information"="자세한 내역";
+"set_remarks"="비고 정보를 입력하세요";
+"mobile_number"="핸드폰 번호";
+"start_chat"="채팅 시작";
+"new_friend"="새 친구";
+"group"="그룹";
+"add_friend"="친구추가";
+"feedback"="사용자 정보";
+"group"="그룹";
+"take_picture"="포토 촬영";
+"my_album"="앨범";
+"change_nickname"="닉 네임 설정";
+"save"="저장";
+"new_message_notification"="새로운 소식";
+"logout"="안전 로그아웃";
+"old_and_new_friend_different"="비밀번호 입력이 불일치 합니다.";
+"confirm_new_password"="확인";
+"confirm_send"="발송 확정:";
+"send"="발송";
+"mobile_number_unempty"="핸드폰 번호는 필수적으로 작성하셔야 합니다.";
+"mobile_number_format_is_incorrect"="핸드폰 번호는 필수적으로 작성하셔야 합니다.";
+"password_can_not_be_blank"="비밀번호를 입력하세요";
+"see_more"="더보기%@";
+"include"="포함하다:";
+"nickname"="닉 네임:";
+"file"="[문서]";
+"link"="[링크]";
+"de_actionbar_sub_system"="시스템 메시지";
+"select_contact"="연락처 선택";
+"friend_request"="친구";
+"from_someone_friend_request"="%@당신에게 친구추가 신청이 왔습니다.";
+"choose_contact"="연락처 선택";
+"Login"="등록";
+"verification_code"="검증 코드";
+"change_success"="수정 완료";
+"username_can_not_nil"="사용자 명은 필수적으로 작성하셔야 합니다.!";
+"password"="비밀번호";
+"mobile_number_or_password_error"="아이디 혹은 비밀번호를 잘 못 입력하였습니다.";
+"register_success"="성공";
+"register"="회원가입";
+"verification_code_invail"="검증 코드 무효";
+"phone_number_can_not_nil"="핸드폰 번호는 필수적으로 작성하셔야 합니다.";
+"nickname_can_not_nil"="닉 네임은 필수로 입력하셔야 합니다.";
+"chat_detail"="채팅 내용";
+"someone_nickname"="닉 네임: %@";
+"friend_news"="친구 내용";
+"friend_invite_had_send"="친구추가 발송 성공";
+"accept"="수락";
+"had_accept"="수락함";
+"had_invite"="초청함";
+"adding_friend"="친구추가...";
+"no_friend"="추가된 친구가 없습니다.";
+"Remark_name"="비고";
+"delete_group_alert"="채팅 그룹 나기기 확정?";
+"Only_the_owner_can_edit_the_group_name"="그룹채팅 개설자만 그룹 이름을 수정할수 있습니다";
+"remove_member"="그룹 맴버 삭제";
+"quit"="로그아웃";
+"group_name_can_not_nil"="그룹 이름이 비어 있을 수 없습니다";
+"Group_name_is_too_short"="그룹 이름이 너무 짧습니다";
+"Group_name_cannot_exceed_10_words"="그룹 이름은 32자를 초과할수 없습니다";
+"type_croup_name_hint"="군명을 기입하다（2-10개 문자)";
+"create_group_fail"="그룹 설립 실패";
+"yes"="확인";
+"modify_nickname"="닉 네임 설정";
+"Start_time"="스타트 시간";
+"xday"="%d 하늘";
+"Login_is_invalid_please_login_again"="로그인이 잘못되었으니 다시 로그인해 주십시오.";
+"picture"="[그림]";
+"voice"="[음성]";
+"location"="[위치]";
+"no_support"="[메시지 없음]";
+"good_friend"="친구";
+"x_unread_message"="%d메시지를 읽지 못하다";
+"stop_record"="녹음을 멈추다";
+"start_record"="녹음을 시작하다";
+"sending"="발송 중";
+"send_success"="성공";
+"send_fail"="보내기 실패";
+"language"="언어 선택";
+"China"="중국";
+"Check out my friends and groups"="나의 친구 및 그룹 보기";
+
+
+
+//==========================================以下是DeFiner主体==========================================
+
+
+
+"Property"="재산";
+"Application"="응용";
+"ICloud"="클라우드";
+"DeFiner wallet"="문교소";
+"wallet_Assets"="총 재산";
+"Person"="나의 정보";
+"Asset management"="코인 종류";
+"wallet management"="지갑관리";
+"Loaded"="추가완료";
+"Lead"="추가";
+"Transfer"="계좌이체";
+"Transfer Record"="대체 기록";
+"Collection"="대금";
+"DeFiner Collection"="DeFiner대금";
+"All"="전부";
+"trade type"="거래 유형";
+"trade"="거래";
+"Trade"="거래";
+"It including transfer，collection and the same thing for user-initiated chain"="거래 유형은 이체와 계좌이체와 수납금: 사용자가 발기한 체인 이체에 입금 거래";
+"BTC transfer"="BTC계좌이체";
+"Quantity"="이체금액";
+"BTC balance"="BTC잔액";
+"balance"="잔액";
+"Please enter the amount"="금액 입력";
+"Received address"="받을 주소";
+"Send Address"="발송 주소";
+"Collection Address"="대금주소";
+"Service fees"="수수료";
+"Slow"="느리다";
+"Quick"="빨리";
+"Suggestions"="의견";
+"Yes"="확인";
+"Scanning"="스캔";
+"Album"="앨범";
+"Put the QR code/Barcode into the box and it can be scanned automatically"="QR코드 / 바코드를 상자 안에 넣으면 자동으로 스캔할 수 있다";
+"Create"="완료";
+"Created"="화폐추가";
+"BTC Collection"="BTC대금";
+"Share the address"="주소 공유";
+"Tip: the address is only for BTC collection"="주의: 이 주소는 BTC 수금만 지원합니다. 다른 화폐 종류에 사용하지 마세요.";
+"Bind your account"="연동 신청";
+"DeFiner transferring record"="DeFiner계좌이체대금기록";
+"Assets"="총 재산";
+"Total income"="총 수익";
+"Today's income"="현재 수익";
+"Custody of digital asset"="전자 재산 위탁 관리";
+"ICloud_Start"="메모리";
+"Record"="기록";
+"Total"="총 수량";
+"Available balance"="사용 가능 수량";
+"Stored quantity"="저장 수량";
+"Store digital assets"="전자 재산 저장";
+"Storable quantity"="저장 가능한 수량";
+"Stored quantity"="저장한 수량";
+"Stored quantity cann't above Storable quantity"="사용 가능한 수량을 초과하였습니다.";
+"Enter the quantity you want to store"="저장할 코인의 수량을 입력하세요.";
+"Procedure"="진행 절차：";
+"1. Select the asset type to store and the storage quantity should not be less than $300"="1. 자산을 자산지갑에서 구름 저금구름 계좌로 옮기기 .";
+"2. Transfer the assets to the address which provided by the system"="2. 기억 날짜 선택.";
+"3. Submit it after transfer successfully"="3. 메모리 수량을 기입하여 시작하기 시작합니다;";
+"Stored record"="저장 기록";
+"Market details"="시세";
+"Select"="즐겨찾기";    // 자유선택
+"Name"="명칭";
+"Latest price"="최신 가격";
+"Change range"="등락폭";
+"24 hours quantity"="24H수량";
+"Buy"="매입";
+"Sell"="매출";
+"Price"="가격";
+"Quantity"="수량";
+"Assets"="총액";
+"Buy BTC"="매입BTC";
+"Sell BTC"="매출BTC";
+"Current entrusted"="현재 위탁";
+"Entrusted Detial"="상세한 상황을 위탁하다.";
+"Time"="시간";
+"Price"="가격";
+"Price/per"="단가";
+"Status"="상태";
+"All entrusted"="전부 위탁";
+"Please enter the Price/per"="가격을 입력하세요";
+"Please enter the quantity"="수량을 입력하세요";
+"Cancel"="페지";
+"Revoke"="철회하다";
+"Matching"="매칭 중";
+"Entrusted price"="위탁 가격";
+"Entrusted quantity"="위탁 수량";
+"Traded amounts"="거래 성공 총액";
+"Average price of traded"="거래 성공 평균 가격";
+"Traded quantity"="거래 성공 수량";
+"Traded"="완료";
+"Recharge"="코인 충전";
+"Favorites"="자유선택에 추가";
+"Exchange"="이전";
+"Exchange record"="이체기록";
+"From"=" "; // 부터
+"To"=" "; // 까지
+"DeFiner Wallet"="콜드지갑";
+"Trading account"="거래 지갑";
+"Coins type"="코인 종류";
+"Please Select Coins type"="코인 유형을 선택하세요";
+"Recharge／Withdraw quantity"="이전수량";
+"Please enter the Recharge／Withdraw quantity"="이전할 코인의 수량을 입력하셍";
+"All"="전부";
+"Available"="사용가능";
+"you can trade only after transferring assets into the trading account， and transferring between accounts is free"="전자화폐를 거래계정에 이전 후 거래를 진핼 할 수 있습니다. ";
+"Type"="유형";
+"Status"="상태";
+"Trading account to wallet account"="거래 계정 까지 콜드지갑";
+"Wallet account to trading account to"="콜드지갑 까지 거래 계정";
+"Recharging／Withdrawing"="이체...";
+"Recharge／Withdraw successfully"="성공";
+"Nickname"="닉 네임";
+"Real-name authentication"="실명인증";
+"Login password"="등록 비밀번호";
+"Payment password"="거래 비밀번호";
+"Fingerprint  verify"="지문 인식";
+"Addresses"="주소록";
+"Display Language"="언어 선택";
+"Notice"="정보센터";
+"Help"="고객센터";
+"My Exchange"="나의 이체";
+"Suggestion"="사용자 의견";
+"About US"="회사소개";
+"Logout"="안전 로그아웃";
+"Authentication"="사용자 인증";
+"ID type"="증서유형";
+"ID"="신분증";
+"Passport"="여권";
+"License"="운전면허증";
+"Real-name"="성명";
+"ID number"="증서 번호";
+"the right side of ID"="증서 앞면";
+"the back side of ID"="증서 뒷면";
+"handheld the ID"="증서를 들고 찍은 이미지 파일";
+"Please enter your real-name"="증서의 성명을 입력하세요";
+"Please enter your ID number"="증서의 번호를 입력하세요";
+"Select from the album"="앨범";
+"Photograph"="포토 촬영";
+"Please select the photo"="그림 선택";
+"Change login password"="비밀번호 수정";
+"Original password"="현재 비밀번호";
+"Please enter your Original password"="현재 비밀번호를 입력하세요";
+"New password"="새 비밀번호";
+"Please enter your new password"="새 비밀번호를 입력하세요";
+"Confirm password"="확인";
+"Please enter your confirm password"="비밀번호 확인";
+"Change payment password"="거래번호 수정";
+"Please enter your Original payment password"="낡은 거래 암호를 입력하십시오";
+"Please enter your new  payment password"="새 거래번호를 입력하세요";
+"Confirm new payment password"="거래번호를 확인하세요";
+"Forget payment password"="거래 비밀번호 찾기";
+"Find payment password back"="거래번호 재설정";
+"Verify code"="인증번호";
+"Get code"="인증번호발송";
+"Message code"="핸드폰 인증번호";
+"Add address"="주소 추가";
+"Please select a public chain"="선택메인체인";
+"Please enter the name"="이름을 입력하십시오";
+"Notes"="비고";
+"Please enter valid address"="유효한 주소를 입력하십시오";
+"Change address"="주소 변경";
+"Chinese"="중국어";
+"English"="영문";
+"Korean"="한글";
+"Suggestion type"="의견 유형";
+"System exception"="세스템 관련";
+"Functional logic error"="어플기능 관련";
+"Optimization Suggestion"="기타";
+"Suggetstion"="피드백";
+"Please enter your suggestion below 500 words"="피드백은 500자 이하로 작성해주세요";
+"New version"="버전 업그레이드 ";
+"Lastest version"="최신 버전입니다 ";
+"Language"="언어 선택";
+"Account"="아이디";
+"Password"="비밀번호";
+"Login"="등록";
+"Forget  password"="비밀번호 찾기";
+"Register"="회원가입";
+"Just Register"="회원가입";
+"Find login password back"="비밀번호 재설정";
+"Register"="회원가입";
+"Login password"="비밀번호";
+"Confirm password"="비밀번호 확인";
+"Payment password"="거래 비밀번호";
+"Payment password error"="거래번호오류";
+"Please enter the phone number"="핸드폰 번호를 입력하세요";
+"Please enter the login number"="등록 비밀번호는 6자리 이상 입력해주세요";
+"Please confirm the login number"="비밀번호를 확인하세요";
+"please enter the payment password（8-16 letters & numbers combination）"="거래번호를 확인하세요（거래번호는 최소 8자리이상 입력하세요）";
+"Please confirm the payment password"="거래번호를 확인하세요";
+"Message code"="핸드폰 인증번호";
+"Fingerprint verify"="지문인식을 진행하세요";
+"Click for fingerprint login"="지문 로그인 클릭";
+"Password login"="비밀번호 등록";
+
+
+"Verify fingerprint with the Home button"="통과하다Home키 검증 이미 휴대폰 지문";
+"Face recognition"="얼굴 인식 좀 해주세요.";
+"Fingerprint verify"="지문인식을 진행하세요";
+"Fingerprint login"="지문 로그인 클릭";
+"Start fingerprint login？"="지문 로그인 여부";
+"Start face recognition?"="인식 기능 활성화";
+"Later"="닫음";
+"Start"="스타트";
+"address_address"="주소";
+"Please Select Language"="선택한 언어 형식을 적용하십시오";
+"Enter the correct phone number"="정확한 핸드폰 번호를 입력해주세요.";
+"Enter the login password (6-22 characters)"="등록 비밀번호는 6자리 이상 입력해주세요";
+"Confirm login password is different from the first entered"="등록 비밀번호 불일치";
+"Enter the payment password (8-16 characters)"="등록 비밀번호는 6자리 이상 입력해주세요";
+"Confirm payment password is different from the first entered"="거래번호 불일치";
+"Fingerprint verify"="지문인식을 진행하세요";
+"Fingerprint login"="클릭 진행지문 인식";
+
+"Transaction sort account"="노드 배열 계정";
+"Nodeless sorts account"="무 노드 배열 계정";
+"IDO-DeFiner sort account"="IDO-DeFiner배열 계정";
+"Unlocked"="방출하였습니다.";
+"Some nodes apply for latching"="노드 잠금저장 신청";
+"Nodeless applies for latching"="무 노드 잠금저장 신청";
+"IDO-DeFiner apply for latching"="IDO-DeFiner잠금저장 신청";
+"Binding account"="계정연동";
+"Latching details"="상세한 정보 기록을 잠금하다.";
+"Nodeless latching detail"="무 노드 잠금저장 기록";
+"IDO-DeFiner latching detail"="IDO-DeFiner상세한 기록 을 방출 하다";
+"Unlocked detail"="상세한 기록 을 방출 하다";
+"Latching"="잠금저장";
+"Nodeless latching"="무 노드 잠금저장";
+"IDO-DeFiner sorts latching"="IDO-DeFiner 정렬 잠금";
+"Enter a valid amount"="유효한 금액을 입력하십시오";
+"Enter a collection address with letters and numbers"="자모와 숫자가 함유된 수금주소를 입력하십시오";
+"Status； successfully"="거래 상태：성공";
+"Status；failed"="거래 상태：실패";
+"Status；waiting for confirm"="거래 상태：확인";
+"Date"="거래시간：";
+"Amount"="거래 금액：";
+"Collection Address"="입금 주소：";
+"Payment Address"="지불 주소：";
+"Notice"="비고：";
+"SN"="거래 번호：";
+"Block"="블록체인：";
+"Latching quantity"="잠금저장할 수량을 입력하세요";
+"The quantity for latching should be integer"="잠금 수량";
+"The quantity of latching should be multiple of 100"="잠금저장의 수량은 100의 배수여야 합니다.";
+"The quantity of latching should be multiple of 500"="잠금저장의 수량은 500의 배수여야 합니다.";
+"Binding account"="계정연동";
+"Tip: Enter the account and password of DeFiner before binding."="참고: DeFiner회원센터 아이디와 비밀번호를 입력 후 계정연동 하세요.";
+"Enter the account you want to bind"="연동하실 계정을 입력하세요";
+"Enter your binding account (login)password"="연동하실 계정과 비밀번호를 입력하세요";
+"Enter the accoun"="핸드폰 번호를 입력하세요";
+"Enter the password"="입력하세요비밀번호";
+"Latching quantity"="잠금저장수량：";
+"Latching"="잠금저장...";
+"Sorts"="배열";
+"start"="스타트";
+"Depth"="심도";
+"Select depth"="깊이 선택";
+"Sure to undo the current delegate?"="폐지를 진행하시겠습니까?";
+"Notice"="훈훈한 힌트";
+"Match price"="매칭 가격";
+"Match quantity"="매칭 수량";
+"Reject"="거절하다";
+"Agree"="허락";
+"Expired"="기한이 지났습니다.";
+"Withdrawn"="폐지하였습니다";
+"Need to confirm"="미확인";
+"My Withdrawal/Recharge"="나의 이전";
+"Your device is not supports fingerprint recognition"="본 설비는 지문인식이 안됩니다.";
+"User profile retrieval failed"="사용자 정보 가져오기 실패";
+"The password length is incorrect"="암호 길이 부정확합니다";
+"Delete"="삭제";
+"No available main chain"="없다메인체인";
+"Approving"="심사...";
+"Approved"="심사 검증";
+"Unapproved"="심사 실패";
+"Please enter the password (with combination of 8 -16 letters and numbers)"="등록 비밀번호는 8자리 이상 입력해주세요";
+"The confirm password is different from the first entered"="등록 비밀번호 불일치";
+"Enter a valid verify code"="유효한 인증 코드를 입력하십시오";
+"Payment password should be 8-16 characters (combination of letters and numbers )"="거래번호는 숫자와 알파벳이 모두 포함해야 됩니다.";
+"The confirm payment password is different from the first entered"="거래번호 불일치";
+"Profile"="개인자료";
+"Nickname"="애칭";
+"Set nickname"="닉네임 설정";
+"Enter the nickname"="수정할 닉네임을 입력하십시오";
+"day"="일";
+"Lock Position"="홀딩";
+"Lock Position Number"="홀딩 수량";
+"Interest earned"="획득한 이자";
+"Check Detial"="자세한 내역 보기";
+"Income"="수익";
+"USDT Lock Position Income Record"="홀딩 수익 리스트";
+"Insufficient available balance"="사용가능한 잔액이 부족합니다.";
+"Note: This address only supports"="주의:현재 주소는 후원만 가능합니다.";
+"receipts, please do not use for other currencies!"="대금, 다른 종류의 코인에 사용하지 마세요.";
+"Please Input Nickname"="닉 네임 설정";
+"Remarks"="비고난";
+
+
+// 弹窗
+"Operated successfully"="제출 성공";
+"operation failed"="진행실패";
+"Loading"="로딩 중…";
+"Cancel"="닫다";
+"Copy successfully"="복사 성공";
+"Cancel"="취소";
+"Submit"="제출";
+"Yes"="확인";
+"no_invite"="데이터가 존재하지 않습니다.";
+"no_search_result"="0“%@”";
+"request_fail_retry"="실패 요청";
+"network_can_not_use_please_check"="인터넷 요청기한 초과";
+
+"address_note"="비고";
+"AboutUS_update"="업데이트";
+"Transaction_Name"="명칭";
+"Transaction_CancelOptional"="자유선택 삭제";
+
+
+"资源"="자원";
+"为他人抵押"="남에게 저당 잡히다";
+"钱包详情"="지갑 정보";
+"已抵押"="저당 잡히다";
+"抵押资源"="저당 잡히다";
+"赎回资源"="자원을 되찾다";
+"赎回"="자원을";
+"最多可抵押"="최대 저당";
+"最多可赎回"="최대 되찾다";    
+"注意："="주의하다：";
+"在EOS网络_上的任何交易都会占用CPU和NET。"="에EOS인터넷의 어떤 거래도 모두 점용한다CPU과NET。";
+"所占用的资源在一定时间后会返还。"="차지하는 자원은 일정 시간 후에 반환한다.";
+"您可以在任何时候赎回资源，但会有3天的等待期。"="당신은 언제든지 자원을 되찾을 수 있지만 사흘의 기다림이 있을 것입니다.";
+"抵押账号"="저당 계좌";
+"接受账号"="계좌를 받다";
+"转移资源"="자원을 옮기다";
+"默认采用租赁的形式为他人抵押资源，您可以随时收回抵押的资源。开启「转移资源」后，抵押给其他账号的资源不可回收，请谨慎操作。"="임대 형식을 타인 담보 자원을 기본으로 사용하면 수시로 저당할 수 있습니다.다른 계좌의 자원을 회수할 수 없는 자원을 회수할 수 있으니 신중하게 조작하십시오.";
+"确认抵押"="담보 확인";
+"账号名"="계좌 이름";
+"创建时间"="생성 시간";
+"当前公钥"="현재 공공 키";
+"导出当前私钥"="개인키 도출";
+"删除钱包"="삭제지갑";
+"收款"="대금";
+"转账"="계좌이체";
+"已关注"="이미 관심을";
+"关注"="관심을";
+"详情"="내역";
+"余额"="잔액";
+"全部"="전부";
+"转账"="계좌이체";
+"收款"="대금";
+"Token/合约地址/项目名"="Token/계약 주소/프로젝트 이름";
+"更多Token"="더 Token";
+"请输入"="입력하세요";
+"存储天数"="기억 일수";
+"请选择存储天数"="기억 날짜 선택";
+"天"="일";
+"利率"="이율";
+"请输入搜索内容"="검색 내용을 입력하십시오";
+"游戏"="게임";
+"交易所"="거래소";
+"挖矿"="광석을 캐다";
+"工具"="도구";
+"浏览器"="브라우저";
+"资讯"="정보";
+"可用余额"="사용 가능 잔액";
+"接收账户"="계좌 를 접수 하다";
+"收款账户"="계좌";
+"发送账户"="계정 발송";
+"认真抄写 安全保管 切勿泄露自己的私钥"="기인키 정보를 안전하게 메모하시고 타인에게 유출하여서는 안됩니다.";
+"此帐户已在其他地方登录"="이 계정은 이미 다른 곳에 있습니다로그인";
+"我的邀请码"="나의 초대 번호";
+"此二维码仅为您的个人推广邀请码"="이 QR코드는 당신의 개인 보급 QR코드입니다.";
+"复制邀请码"="초대 번호를 복사하기";
+"地址"=" 주소";
+"私钥"=" 비밀";
+"DeFiner官网"="DeFiner공식 사이트";
+"开源代码"="오픈 소스 코드";
+"区块浏览器"="블록 웹 브라우저";
+"海外内部流通中心"="해외 내부 유통 센터";
+"节点共建系统"="노드 공동건설 시스템";
+"银河社区"="은하 커뮤니티";
+"消费养老"="소비와 양로";
+"医疗美容保险"="의료미용보험";
+"送运网"="수송망";
+
+
+
+
+
+
+
+
+
+
+
+
+"Appli_Please_enter_the_search_content"="검색 내용을 입력하십시오";
+
+"PersonExchangeH"="H주 교환 기록";
+"Person_My_assets"="나의 총산";
+
+"Alert_User_not_logged_in"="사용자 미 등록";
+"Alert_System_error"="시스템 오류";
+"Alert_Request_URL_does_not_exist"="요청한 URL은 존재하지 않습니다.";
+"Alert_Failure_of_parameter_analysis"="파라미터 해석 실패";
+"Alert_SIGN_Check_Failure"="SIGN검증 실패";
+"Alert_Token_has_expired"="token 기한이 지났습니다.";
+"Alert_Token_Check_Failure"="token검증 실패";
+"Alert_Timestamp_error"="타임스탬프 오류";
+"Alert_Request_method_does_not_support"="수용되지 않는 요청방법";
+"Alert_Current_media_types_are_not_supported"="현재 미디어 파일을 열수 없습니다.";
+"Alert_Failure_of_parameter_validation"="파라미터 검증 실패";
+"Alert_The_parameter_is_empty"="파라미터는 필수적으로 작성하셔야 합니다.";
+"Alert_Data_does_not_exist"="현재 데이터를 찾지 못했습니다.";
+"Alert_Data_already_exists"="데이터가 존재합니다.";
+"Alert_Operation_failed"="진행실패";
+"Alert_App_has_been_locked"="APP는 잠금되어 있습니다.";
+"Alert_App_public_key_not_set"="APP의 공용키를 설정하지 않았습니다.";
+"Alert_Signature_algorithm_error"="사인 계산방법 오류";
+"Alert_Failure_to_obtain_price"="가격정보 획득을 실패하셨습니다";
+"Alert_User_name_already_exists"="아이디가 존재합니다.";
+"Alert_The_security_code_must_be_a_combination_of_8_to_16_bits_of_letters_and_numbers."="안전번호는 8자리부터 16자리의 숫자와 알파벳의 조합이여야 합니다.";
+"Alert_User_Security_Code_Input_Error"="계정 안전번호 입력 실패";
+"Alert_User_does_not_exist"="현재 계정은 존재하지 않습니다.";
+"Alert_ERROR_Incorrect_username_or_password"="아이디 혹은 비밀번호를 잘 못 입력하였습니다.";
+"Alert_Failure_to_create_Wallet"="지갑 설정 실패";
+"Alert_The_payee_was_not_found"="수취인이 존재하지 않습니다.";
+"Alert_Payment_not_found"="납부자 정보를 찾지 못했습니다.";
+"Alert_Users_do_not_support_authorized_transactions"="계정은 수권거래를 진행할 수 없습니다.";
+"Alert_User_Authorization_Trading_Token_Error"="계정 수권거래 토큰 오류";
+"Alert_Users_have_been_authenticated_successfully!"="계정 인증 성공";
+"Alert_Insufficient_available_quantity"="사용이 가능한 수량이 부족합니다.";
+"Alert_There_is_no_calculating_node_yet"="해시 레이트 노드가  존재하지 않습니다.";
+"Alert_The_wallet_has_been_locked_and_cannot_be_exported!"="이 지갑은 이미 잠금됨으로 도출할 수 없습니다!";
+"Alert_Account_Banned"="계정이 비활성화되다";
+"Alert_Request_timeout"="인터넷 요청기한 초과";
+"Alert_Data_loading_failure"="데이터 다운로드 실패";
+"Alert_No_more_data"="데이터가 더 없어요.";
+"Alert_This_account_is_not_activated_please_activate_the_account_first!"="이 계정이 활성화되지 않았으니 계정을 활성화시키십시오!";
+"Alert_For_the_sake_of_your_account_security_please_verify_your_mobile_phone_number_and_enter_your_transaction_password"="고객님의 계정을 안전하게 하기 위해서 핸드폰 번호와 거래 비밀번호를 입력하십시오";
+"Alert_Raybo_Network_Regulations:_Users_need_to_transfer_to_20XRP_to_activate_the_address_and_permanently_unavailable_or_extractable."="서파 네트워크 규정: 사용자는 20XRP로 이 주소를 활성화하고, 영원히 사용하거나 추출할 수 없습니다.";
+"Alert_Wrong_transfer_address"="계좌 이체 주소 오류";
+"Alert_The_wallet_already_exists"="이미 존재한 지갑입니다.";
+"Alert_USER_WAS_BOUNDED"="현재 계정은 이미 연동된 계정입니다.";
+"Alert_Please_select_the_number_of_storage_days"="기억 날짜 선택";
+"Alert_The_storage_price_should_not_be_less_than_$300"="예금 금액은 300달러보다 적다";
+"Alert_Insufficient BTC handling fee"="BTC 수수료 부족";
+"Alert_Insufficient handling fees"="수수료가 부족하다";
+
+"Person_Exchange_records"="교환 기록 ";
+"Person_Quantity"="수량";
+"Person_Time"="시간";
+"Person_Status"="상태";
+"Person_Exchange_success"="교환성공";
+"Person_Invitation_code"="추천 코드";
+"Person_Please_fill_in_the_invitation_code"="추천 코드를 적어 주세요.(고르다)";
+"Person_Tool_flow"="도구 흐름";
+
+"Money_Your_account_number"="당신의 계좌";
+"Money_Binded_please_latch"="잠금해 두십시오";
+"Money_Please_enter_the_number_of_locks_you_have"="잠금 수량을 입력하십시오";
+"Money_Confirm_latch"="잠금저장 확인";
+"Money_Convertibility"="교확 완료";
+"Money_Latching_quantity"="잠금저장 수량";
+"Money_Exchange_H_shares"="H주 교환";
+"Money_Exchange"="교환";
+"Money_Available"="사용가능";
+"Money_H Shares: Predicted Convertibility"="H주:교환 가능한 수량은 약 **";
+"Account_Please_enter_the_transaction_password"="거래번호를 확인하세요";
+"Money_<H Share Exchange> Agreement"="계약을 동의하세요";
+"Money_Confirmation_of_exchange"="교환 확인";
+"Money_Please_enter_the_amount_of_exchange"="태환 수량을 입력하십시오";
+"Money_You_did_not_agree"="동의해 주십시오";
+"Money_Exchange_rule_loading_failed"="태환 규칙 다운로드 실패";
+"Money_Import"="도입";
+"Money_Wallet"=" 지갑";
+"Money_Choose the currency to import into your wallet"="지갑 가져오는 화폐 종류 선택";
+"Money_Please_input"="입력하세요";
+"Money_The_private_key_address_of_the_wallet"="지갑의 개인키주소";
+"Money_Start_importing"="도입 시작";
+"Money_Wallet_Import_Successful"="도입 성공";
+"Money_ImportWalletTip"="ImportTipKR";
+
+"Transfer_Transaction_failure"="거래 실패";
+"Transfer_Successful_trade"="거래가 성사되다";
+"Transfer_Send address:"="발송 주소：";
+"Transfer_Receiving address:"="받을 주소：";
+"Transfer_Service Charge:"="수수료：";
+"Transfer_Block:"="블록체인：";
+"Transfer_Transaction time:"="거래시간：";
+"Transfer_Transaction number:"="거래 아이디：";
+"Transfer_Success"="성공";
+"Transfer_Failure"="실패";
+"Transfer_Collection records"="수금 기록";
+"Transfer_Frozen"="동결";
+"Transfer_Convert_Into_USDT"="USDT 환산";
+"Transfer_Partial_transaction"="일부 거래 성공";
+"Transfer_Recharge"="충전";
+"Transfer_Least"="최소";
+"Transfer_Withdrawal"="환전";
+"Transfer_Asset_wallet_to_cloud_account"="자산지갑 운계좌로";
+"Transfer_Cloud_account_to_asset_wallet"="운계좌 자산지갑";
+"Transfer_Transaction_record"="거래 기록";
+"Transfer_Pay"="지불하다";
+"Transfer_Income"="수입";
+"Transfer_Transaction types include total, expenditure, and revenue; user purchase and sale of money entrusted to the collection and expenditure records"="거래 유형은 전체, 지출, 수입, 사용자 매입 및 매입 및 매입 의뢰의 수지 기록을 포함한다.";
+"Transfer_DeFiner_Wallet"="재산지갑";
+
+"ICloud_Storage_days"="기억 일수";
+"ICloud_interest_rate"="이율";
+
+"Icloud_Cloud_Storage_Cloud_Account"="클라우드 계정";
+"Icloud_Only transferring assets to cloud storage can digital assets be stored, and there is no handling fee for transferring between accounts."="재산을거래계정에이전후거래가진행됩니다.";
+"Icloud_recharge/withdrawal_records"="충전 및 환전 기록";
+
+//错误码
+"签名错误"="사인 계산방법 오류";
+"账号被禁用"="계좌번호 비활성화";
+"参数错误"="후원되지 않는 파라미터";
+"请求超时"="인터넷 요청기한 초과";
+"程序错误"="프로그램 오류";
+"用户id不能为空"="사용자의 아이디는 필수적으로 작성하셔야 합니다.";
+"无效的用户id"="사용이 불가능한 사용자 아이디";
+"用户名不能为空"="사용자 명은 필수적으로 작성하셔야 합니다.";
+"用户头像地址不能为空"="사용자 프로필 이미지 주소는 필수적으로 작성하셔야 합니다.";
+"loginToken不能为空"="로그인 토큰은 필수적으로 작성하셔야 합니다.";
+"登录token效验失败"="등록 토큰 검증 실패";
+"获取融云token失败"="클라우드 토큰 취득 실패";
+"刷新融云用户信息失败"="클라우드 계정 정보 갱신 실패";
+"手机号码不能为空"="핸드폰 번호는 필수적으로 작성하셔야 합니다.";
+"用户不存在"="사용자가 존재하지 않습니다.";
+"用户昵称不能为空"="사용자 닉 네임은 필수적으로 작성하셔야 합니다.";
+"你添加的好友数已超过上限"="친구추가 수량이 초과되었습니다.";
+"被邀请人的好友数已经达到上限"="피 요청자의 친구추가 수량이 초과되었습니다.";
+"自己不能添加自己为好友"="본인을 친구추가를 할 수 없습니다.";
+"你们已经是好友关系，不需要重复添加"="이미 친구추가 되었습니다. 중복추가는 불가능 합니다.";
+"添加好友请求消息发送失败"="친구추가 메시지 발송 실패";
+"接收好友邀请操作失败"="친구추가 허락 실패";
+"好友备注不能为空"="친구 비고는 필수적으로 작성하셔야 합니다.";
+"修改备注失败"="비고 수정 실패";
+"删除好友失败"="친구 삭제 실패";
+"json格式不正确"="부정확한 json격식";
+"创建群失败"="그룹 만들기 실패";
+"groupId不能为空"="그룹 아이디는 필수적으로 작성하셔야 합니다.";
+"没有找到相关的群信息"="관련된 그룹 내역을 찾지 못했습니다.";
+"退出群失败"="그룹 퇴출 실패";
+"群名称不能为空"="그룹명은 필수적으로 작성하셔야 합니다.";
+"已经超过加群人数上限"="그룹에 추가 가능 인원이 초과되었습니다.";
+"刷新群信息失败"="그룹 내용 갱신 실패";
+
+"刷新群信息失败"="그룹 정보 새로 고침 실패";
+"用户没有创建群的权限"="사용자는 그룹의 권한이 없습니다";
+"用户群的数量超过了限制数"="사용자 그룹의 수량은 제한수를 초과했다";
+"群主用户id与调用人的token不匹配"="사용자 id 와 호출자의 token";
+
+
+
+
+
+
+"EOS交易失败"="EOS거래 실패";
+"EOS钱包已被使用"="EOS지갑이 이미 사용되였습니다";
+"EOS账户资源不够"="EOS계정의 자원이 부족합니다";
+"无法找到图片内容"="이미지 컨텐츠를 찾을수 없습니다";
+"转账地址错误"="이체 주소가 잘못되였습니다";
+"获取价格失败"="가격 획득이 실패하였습니다";
+"提交eos交易失败"="eos 거래 제출이 실패되였습니다";
+"eos交易签名失败"="eos 거래 서명이 실패되였습니다";
+"该账户已被注册"="계좌는 이미 가입되었습니다.";
+"用户已绑定"="사용자가 이미 연동되였습니다";
+"用户未绑定"="사용자가 연동되지 않았습니다";
+"收款钱包未找到"="입금 지갑을 찾지 못하였습니다";
+"付款钱包未找到"="지불 지갑을 찾지 못하였습니다";
+"EOS交易失败"="EOS거래 실패";
+"未找到推荐人"="추천자을 찾지 못하였습니다";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//EOS钱包
+"EOS_Creating EOS Accounts"="EOS 계정 만들기";
+"EOS_Account name"="계정 이름";
+"EOS_Please enter a new account name"="신규 계정 이름을 입력하세요";
+"EOS_Next"="다음";
+"EOS_1. Set EOS wallet account name first;"="1. EOS 지갑 계정을 설정합니다;";
+"EOS_2. Transfer to the USDT address of the system;"="2. 시스템 USDT 주소 이체;";
+"EOS_3. Fill in the notes;"="3. 비고 메시지 작성";
+"EOS_4. System audit is required after the creation is completed, and account creation is successful after the audit is successful."="4. 완성 후 수시스템 심사, 심사 성공 후 계좌가 창건되었습니다.";
+"EOS_Account name must be 12 digits"="계정 이름은 12자리여야 합니다";
+"EOS_Support only lowercase letters `a-z', numbers `1-5', decimal points'. (and cannot start and end with decimal points)"="소문자 'a~z', 숫자 '1~5'만 지지합니다";
+"EOS_Confirm account information"="계정 정보 확인";
+"EOS_Account opening fee is time-limited and EOS resource purchase fee is free"="계정 개설비 한시 면제+EOS자원 구입비";
+"EOS_* all the resources purchased are yours"="* 구입하신 모든 자원은 당신의 것입니다";
+"EOS_Collection address"="수신주소";
+"EOS_Payment address"="지불 주소";
+"EOS_Remarks"="비고난";
+"EOS_Please enter the payment address"="입금 주소를 입력해 주세요";
+"EOS_Please fill in the remarks"="비고 정보를 기입해 주세요";
+"EOS_Immediately create"="지금 만들기";
+"EOS_EOS account management"="EOS 계정 관리";
+"EOS_Import account"="계정을 도입하기";
+"EOS_Create account"="계정 만들기";
+"EOS_Account creation requires payment"="계정을 만들기 위해 지불이 필요합니다";
+"EOS_Current price"="현재 가격";
+"EOS_Balance"="잔액";
+"EOS_* the amount of RAM is estimated based on the unit price of recent transactions of the main network, and the actual amount is subject to the actual transaction result"="*RAM 수량은 메인넷의 최근 거래의 단가로 추산하며 실제 수량은 실제 거래 결과를 기준으로 합니다.";
+"EOS_Estimated convertibility"="태환에 대한 예상";
+"EOS_* in order to ensure the success of the transaction, please keep at least 1KB RAM. If you are prompted to sell out of memory, please check the wallet balance is enough to cover the transaction fee, and ensure that the CPU/NET is sufficient"="* 거래 성공을 위해 1KB RAM은 보관해 두십시오.판매시 알림 메모리가 부족하면 지갑 잔액을 확인하여 이번 거래의 수수료를 지불하며 CPU/NET이 충족함을 보장합니다";
+"EOS_Price"="가격";
+"EOS_Quantity"="수";
+"EOS_Buy success"="구매 성공";
+"EOS_Selling success"="매각 성공";
+"EOS_Account details"="자세 한 내용";
+"EOS_Resources"="자원";
+"EOS_Other"="다른";
+"EOS_Mortgage"="저당";
+"EOS_Redeem"="되찾다";
+"EOS_Payment account"="지불 계좌";
+"EOS_Receiving account"="수금 계좌";
+"EOS_Mortgage_details"="저당잡히다";
+"EOS_Create_Account_Information_Submitted_Successfully"="계정 정보 생성 성공";
+"EOS_Copy"="복제";
+
+
+// 2019-05-30 添加
+"邀请记录"="초청 기록";
+"已获取CTT"="CTT기취득";
+"立即邀请"="즉시 공유";
+"DeFiner公链钱包为了打造最安全可靠的钱包产品，2019年内力争获得100万用户量支持，特别推出邀请奖励模式。邀请注册成功1位用户，邀请人会获得1个CTT奖励，邀请越多，获得越多，无上限。\n\n邀请步骤:\n1.复制邀请码或分享邀请码发送给好友;\n2.好友注册时填写您的邀请码(或在注册右上角点击扫描好友发出来的邀请码二维码也可);\n3.注册并实名成功后，将自动获得1个CTT奖励;"="보급 표준: \n A. 등록을 추천하는 사용자는 반드시 실명 인증을 통해 유효한 사용자입니다. \n B. DeFiner 디지털 자산지갑에 10개의 DeFiner -ER 을 소지해야 합니다. \n 절차: 자신의 추천 코드나 QR코드 공유를 추천하는 사용자 -DeFiner 디지털 자산지갑 및 실명 인증 -DeFiner 상위권 안내 DeFiner -구매를 안내하는 DeFiner -구매를 유도하는 DeFiner -DeFiner 가 DeFiner 디지털 자산지갑 10개를 운저당 10개로 돌려주고 -한 번 효과적으로 보급 (보급)추천인 구매 후 이체는 추천 가입자의 무계수를 효과적으로 보급)";
+"money_Trading_pool"="거래지";
+"money_release_number"="방출 수량";
+"money_The_wallet_does_not_support_export"="이 지갑은 도출을 지지하지 않는다";
+"money_DeFiner-ER_Exchange"="태환";
+"money_DeFiner-ER_Exchanged"="교확 완료";
+"money_DeFiner-ER_Exchange_time"="환전 시간";
+"money_Release_time"="석방 시간";
+"money_The amount of exchange must not be less than"="태환 수량은 ..보다 적어서는 않된다 ";
+"money_Please select the record you want to exchange."="태환할 기록을 선택하십시오";
+"money_Release Rules"="태환 규칙";
+"money_Redeem now"="즉시 태환";
+"money_1. Release according to lock priority;"="1.래치 순서 우선급에 따라 방출한다 ";
+"money_2. Release the upper limit DeFiner every day, and continue to release the DeFiner the next day after the release is completed on the same day."="2.매일의 방출 상한은 DeFiner이고 당일 방출이 완료된 후 다음날 계속 방출할수 있다 ";
+"money_3. Release to the trading pool. After release to the trading pool, users can choose the appropriate amount to convert into DeFiner-ER tokens."="3.거래지로 방출한 후 사용자가 해당 수량으로 DeFiner-ER 기호화폐로 태환할수  있다.";
+"money_Note: 5 USDT charges are deducted for each transfer."="주의: USDT 이체는 소량의 BTC 수수료가 필요합니다";
+"money_The ETH balance of transfer fee is insufficient"="이체 수수료 ETH 잔액 부족";
+"money_At least 10 DeFiner-ER transfers,"="DeFiner -ER 외상 계좌이체는 10개보다 적다";
+"money_DeFiner-ER transfer requires a certain ETH as handling fee. Please ensure that the ETH balance of the account is adequate."="DeFiner-ER 이체는 일정한 ETH 가 수수료로 필요하므로 계정 ETH 잔액이 충분하다고 보장해 주십시오";
+
+"money_DeFiner-ER is the ERC token of DeFiner public chain, which is only used for DeFiner circulation."="DeFiner -ER 은 DeFiner 사슬의 ERC 동화로 DeFiner 유통에 사용됩니다";
+"money_DeFiner-ER is the ERC token of DeFiner public chain system, which is only used for DeFiner circulation. The DeFiner locked on the DeFiner wallet will be released to the trading pool in a certain order, and the DeFiner in the trading pool can be converted into DeFiner-ER in a ratio of 1:1. The converted DeFiner-ER can be transferred to the major exchanges after online circulation."="DeFiner-ER는 DeFiner퍼블릭 블록체인 시스템의 일종의 기호 화폐로 이더 퍼블릭 블록체인에서 발행됩니다. 사용자가 DeFiner 지갑에 래치한 DeFiner는 일정한 순서로 거래 풀로 방출되고 거래 풀에 있는 DeFiner는 1:1 비율로 DeFiner-ER 기호 화폐로 교환됩니다. 교환된 DeFiner-ER 기호 화폐가 출시된 후 각종 거래소에서 유통할수 있습니다. 거래소에서 유통되는 DeFiner-ER기호 화폐도 DeFiner로 약칭합니다.";
+"money_DeFiner Wallet Lock Release Rules:"="DeFiner 지갑 래치와 방출의 규칙:";
+"money_1. Release a certain amount every day and assign it to priority users."="1. 하루 일정한 총량을 풀고 우선 순위 정렬로 분배된 사용자;";
+"money_2. Quantitative release of records in lock order every day;"="2. 매일 잠그고 정렬된 기록에 따라 석방한다;";
+"money_3. IDO locks are released preferentially;"="3.IDO 잠금 우선 풀기";
+"money_4. Prioritize the release of users whose latches have reached the standard and rank the top users;"="4. 자물쇠를 우선 풀고 목표에 달한 다음 정렬된 사용자;";
+"money_5. Release to the trading pool, after release to the trading pool, users can choose the appropriate amount of converted into DeFiner-ER tokens;"="5. 교역장으로 풀려나며 거래소에 방출된 후 사용자는 해당하는 수량을 DeFiner -ER 동화로 바꿀 수 있다;";
+"money_6. For specific release rules, please refer to the announcement of DeFiner node co-construction system."="6.具体释放规则请参照DeFiner节点共建系统公告;";
+"money_7. The release time began before 24:00 on July 1, 2019."="7.释放时间从2019年7月1日24时前开始;";
+"money_Explain"="설명";
+"Alert_Please_enter_the_validation_code"="인증 코드 입력";
+"Person_Please_enter_your_account_number"="계좌번호 입력해주세요";
+"Person_Please_enter_your_password"="암호를 입력하십시오";
+"money_Verification_Code_Error"="확인 코드 오류";
+"money_Your account has been logged on to other devices"="너의 계좌번호는 이미 다른 장치에 로그인되었다";
+"money_Share"="나누다";
+"money_Each exchange is charged"="8.환전할 때마다 수취한다";
+"money_DeFiner-ER Miners'Fees"="DeFiner -ER 의 광부비";
+"money_(In pen terms, it has nothing to do with the amount of exchange.)"="(펜으로 계산하고 환전한 수량과 무관하다.)";
+"money_Actual Achievement"="예상 가능";
+
+"certification_Example: Front photo of my ID"="예: 본인 증명서 정면 사진";
+"certification_Example: Photos on the back of my ID"="실례:본인 증명서 뒷면 사진";
+"certification_Examples: Handheld certificates and handwritten DeFiner certified white paper"="예: 인증 증명서 및 손수 DeFiner 인증 백지";
+"certification_Real-name certification instructions"="사용자 정보 실명 등록";
+"certification_For the sake of the security of your account funds, please register the real-name authentication information."="사용자 정보 실명은 당신의 계좌 자금 안전을 위해 실명 인증 정보를 등록하십시오.";
+"certification_Please note that once the information has been registered, it can not be amended, and then withdrawal, account verification and other business information must be consistent with the registration information, please fill in truthfully."="정보가 로그인되어 변경되지 않으므로, 변경할 수 없음을 주의하시기 바랍니다. 나중에 현금 검증 등 업무정보는 등록 정보와 부합되어야 합니다.";
+"certification_Photo Requirements:"="사진 요구:";
+"certification_1. Please ensure that the photos are waterless, stainless, clear identity information, complete head image, non-text reverse photos! Photos do not carry out PS processing!"="1. 사진 무도장, 무얼룩, 주민정보 선명해, 캡처, 텍스트 반향 사진! 사진 PS 처리!";
+"certification_2. Hand-held ID photo: You need to hold your ID card in one hand and a white paper with your handwriting in the other hand. The content is to fill in the account number, name and date. Make sure that the ID card and white paper are on your chest, not covering your face, and the information on the ID card and white paper is clearly visible!"="2. 주민등록증 사진: 본인 한 마리가 당신의 신분증을 들고, 다른 한 쪽은 당신이 쓴 백지, 내용은 계좌, 이름, 날짜를 작성합니다.주민등록증과 백지가 당신의 가슴에 있는지 확인하고 얼굴을 가리지 않고 주민등록증과 백지에 대한 정보가 분명하다!";
+
+"transaction_Miners'fees"="광공비";
+
+"Person_Developer Center"="개발자 중심";
+"Person_Instant View"="즉시 조사하다";
+
+"Alert_This function is maintained and temporarily closed."="이 기능은 잠시 폐쇄됩니다.";
+"Alert_Real-name authenticated users can perform this operation."="실명 인증 사용자가 이 조작을 할 수 있다.";
+"Alert_ETH wallet not created"="ETH 지갑 만들기";
+
+"money_Converting CTT to DeFiner-ER"="CTT 로 DeFiner -ER 태환";
+"Alert_Functions are not yet open"="기능이 아직 개방되지 않았다";
+"Alert_Quantity must not be less than the minimum limit quantity"="수량 이 최소 제한 수량 보다 적게는 안 된다";
+
+"ICloud_Number of CTTs"="CTT 수량";
+"ICloud_DeFiner-ER Quantity"="DeFiner -ER 수량";
+"ICloud_Details of funds"="자금 명세";
+
+"money_Buy DeFiner-ER"="DeFiner -ER 구매";
+"money_Please enter the quantity of DeFiner-ER purchased"="DeFiner -ER 구매 수를 입력하십시오";
+"money_Please enter USDT payment address"="USDT 주소 선택";
+"money_Please enter notes"="비고 정보를 입력하십시오";
+"money_USDTs are required for purchase."="구매는 USDT ";
+"money_required for purchase."="개를 지불해야 합니다.";
+"money_Please check the payment address and the balance of USDT carefully."="USDT 잔액이 충분하다고 확보해 주세요.";
+"money_purchase"="구매";
+
+"ICloud_The remaining number of DeFiner-ER in cloud storage should not be less than"="구름 저장 중 DeFiner -ER 수량 초과";
+"money_DeFiner-ER Purchase Record"="DeFiner -ER 구매 기록";
+"money_USDT_Quantity"="USDT 수량";
+"money_USDT address:"="USDT 주소:";
+"money_DeFiner-ER address:"="DeFiner -ER 주소:";
+"money_My account"="나의 계좌";
+"Cloud_My performance"="나의 업적";
+"Cloud_My Benefits"="나의 수익";
+"Cloud_Associated data"="관련 데이터";
+"Cloud_Direct Relevance"="직접 연결";
+"Cloud_Indirect correlation"="간접 관련";
+"Cloud_Immediate transfer"="즉각";
+
+"money_The First Public Chain of B2B Trade Circulation Interactive Settlement Channel"="첫 번째 B2B 무역 유통 상호 결산 채널 공쇄";
+"money_Side Chain of Data Credit System Based on DeFiner Cloud Storage Chain"="DeFiner 구름에 기반 체인 데이터 신용체계의 측슬 -양로고리";
+"money_DeFiner public-chain tokens, used only for reward distribution in DeFiner system"="DeFiner 공쇄 지폐, DeFiner 시스템 보너스";
+
+"Cloud_Storage not less than"="기억 수량 이 적지 않다";
+
+"profit_Income details"="수익 상세 상황";
+"profit_Source"="원천";
+"profit_Currency"="화폐 종류";
+"profit_Number of locks"="창고 수량";
+"profit_Interest days"="이자 일수";
+"profit_Start time"="시작 시간";
+"profit_Revenue time"="수익 시간";
+"profit_Income days"="수익 일수";
+"profit_Type of operation"="조작 형식";
+
+"profit_Exchange charges"="환전 수수료";
+"profit_Opening of Asset Trusteeship"="자산 통치";
+"profit_Closure of asset custody"="자산 위탁 폐쇄";
+"profit_Asset custody closure fee"="자산 통치 수수료";
+"profit_Asset Trusteeship Income"="자산 위탁 수익";
+"profit_End of asset custody"="자산 통치";
+"profit_Dynamic Return of Asset Trusteeship"="자산 통치 동적 수익";
+"profit_nvitation Registration Award"="등록 장려";
+"profit_Asset Trusteeship Airdrop PC"="자산 통치 PC";
+"profit_Management Income"="관리 수익";
+"profit_Recommended Income"="추천 수익";
+"profit_Wallet Assets - Airdrop PC"="지갑 자산 -공중 PC";
+
+"Person_myCode"="업그레이드 후 DeFiner 디지털 자산 지갑 초대 코드 적용 설명: \n 1. DeFiner 지갑에서 「나의 초청 코드 」 -「제 초청 코드 」 를 누르십시오. \n 2. 등록이 필요한 사용자나 QR코드를 다운로드할 사용자에게 초대합니다 \n 3. 사용자가 DeFiner 디지털 자산 지갑 스캔 이 없다면 사용자가 DeFiner 디지털 자산 지갑 페이지를 다운로드할 수 있다 \n 4. 사용자가 DeFiner 디지털 자산지갑을 다운로드했다면 DeFiner 지갑 APP 등록 페이지에 스코어 도구를 사용하여 초청번호를 쓸어넣거나 직접 쓰기 초청번호를 기록할 수 있습니다 \n 비고: QR코드가 다른 청소 도구 (예를 들어 마이크로메일 중) 을 다운로드하는 주소입니다.DeFiner 디지털 자산 지갑 APP 에서 등록 부호 기업을 초청하고 있습니다.";
+
+"Alert_You haven't entered the invitation code yet. If you have received the invitation code, please enter the invitation code. Otherwise, the promotion revenue will not be calculated."="초대 코드를 입력하지 않았다면 초대 코드를 입력하십시오. 초대 코드를 반드시 입력하십시오. 그렇지 않으면 수익을 보급할 수 없습니다.";
+"Alert_Write"="기입하러 가다";
+"Alert_Version Update Bulletin"="버전 업데이트";
+
+"Alert_Please enter SMS Verification Code"="문자 인증 코드 입력";
+
+
+"Alert_USDT Miner Fee Description"="USDT 광공비 설명";
+"Alert_Omni is attached to the BTC block chain and uses OP_RETURN in the Bitcoin transaction to store the transaction information of USDT. Therefore, a USDT transaction requires a bit of BTC as the miner's fee for the transaction. In addition, the miner's fee is charged by the chain miners, rather than by the DeFiner wallet. This is the Omni Chain Transfer Rule, not the DeFiner wallet."="Omni 는 BTC 블록 체인에 의존하며 비트코어 거래에 있는 OP RETURN 이 USDTT를 저장하는 거래 정보를 사용해 USDT 의 교역은 BTC 를 교역하는 광산료로 조금 내야 한다.또 이 광부들은 체인 광부들이 청부해서 수취한 것이 아니라 DeFiner 지갑을 수취한다.Omni 사슬에 이체의 규칙이며 DeFiner 지갑이 만든 것도 아니다.";
+
+"Alert_Oh I see"="알겠습니다.";
+"Money_DeFiner_ER Purchase Record"="DeFiner -ER 구매 기록";
+
+"Alert_It costs BTC to send USDT as miner's fee. If you don't have BTC, you can also pay USDT. We'll help you pay BTC miner's fee."="USDT 를 보내려면 BTC 가 광공비로 쓰는데, 만약 BTC 가 없으면 USDTT를 지불할 수 있습니다.";
+
+"Person_Block Chain Payment"="블록 체인 지불";
+"Person_DeFiner Mall"="DeFiner 상가";
+"Alert_Loading desperately..."="필사적으로 가재 중";
+"Mall_My_order"="나의 주문서";
+"Mall_View_all_orders"="모든 주문서 보기";
+"Mall_Pending_payment"="지불을 기다리다";
+"Mall_To_be_shipped"="발송을 기다리다";
+"Mall_Goods_to_be_received"="인수";
+"Mall_To_be_evaluated"="평가를 기다리다";
+"Mall_Address_Management"="수납 주소 관리";
+"Mall_Home"="첫 페이지";
+"Mall_Classification"="분류";
+"Mall_Shopping Cart"="쇼핑 카";
+"Mall_Person"="나의";
+"Mall_Mall"="상가";
+"Mall_Selected_goods"="좋은 물건을 정선하다.";
+"Mall_Recommended_products"="추천 제품";
+"Mall_Green Tea Extracts the Essence of Camellia"="청차 추출 동차 에센스";
+"Mall_Luzhou Laojiao"="노주지사";
+"Mall_Shu Fu family"="서부";
+"Mall_Xinhua Village"="살구꽃 마을";
+"Mall_Jobon legend"="중방전기";
+"Mall_Raw camellia oil"="오리지널";
+"Mall_European International Wine"="유럽법 국제 포도주";
+"Mall_Cancel"="취소";
+"Mall_Confirm"="확인";
+"Mall_Evaluate"="평가";
+"Mall_Evaluated"="평가하다";
+"Mall_Order_details"="주문서 상세 상황";
+"Mall_The order has been cancelled"="주문 취소됨";
+"Mall_Waiting for payment"="지불을 기다리다";
+"Mall_Payment awaiting confirmation"="지불 대기 확인 중";
+"Mall_Buyer paid"="사는 사람이 이미 돈을 지불했다";
+"Mall_Seller has shipped"="판매가가 이미 출하되었다";
+"Mall_Confirmed receipt"="인수 확인";
+"Mall_Buyer message"="바이어 메모";
+"Mall_Consignee"="수취인";
+"Mall_Total commodity price"="상품 총가격";
+"Mall_Freight(express)"="운송비 (택배)";
+"Mall_Total price of orders"="주문서";
+"Mall_Actual payment"="실불금";
+"Mall_Order number"="주문 번호";
+"Mall_The order number has been copied to the pasteboard"="주문 번호를 붙여 붙여넣기";
+"Mall_Payment time"="지불 시간";
+"Mall_Logistics number"="물류 번호";
+"Mall_Logistics number has been copied to pasteboard"="물류 번호를 붙여 붙여넣기";
+"Mall_Have you considered it? Are you sure you want to cancel the order?"="생각해 보셨습니까?주문 취소할 예정인가요?";
+"Mall_Think again"="다시 한번 생각해 볼게요";
+"Mall_To pay"="지불하다";
+"Mall_Please confirm receipt of the goods."="화물을 받았는지 확인하세요.";
+"Mall_Please choose the payment address"="지불 주소 선택";
+
+"Mall_Recent search"="최근 검색";
+"Mall_Complaint"="고소하다";
+"Mall_Complaint record"="고소 기록";
+"Mall_Please describe the specific reasons for the complaint, and upload up to five pictures."="고소의 구체적인 원인을 설명해 주시면 최대 다섯 장의 사진을 올릴 수 있습니다.";
+"Mall_In order to help you better solve the problem, please upload clear picture voucher."="더 나은 문제를 해결하기 위해 또렷한 사진 증명서를 올려주세요.";
+"Mall_Only 5 pictures can be uploaded at most!"="최대 5장밖에 안 올라와요!";
+
+
+"购物车"="쇼핑 카";
+"总计"="총계";
+"取消全选"="전선 취소";
+"全选"="전선";
+"确定要删除此商品？"="이 상품을 삭제하시겠습니까?";
+"取消"="취소";
+"确定"="확정";
+"请选择需要下单的商品"="주문이 필요한 상품을 선택하세요.";
+"凑单"="계산서";
+"结算"="결산";
+"确认订单"="확인 주문서";
+"共计"="합계";
+"共"="함께";
+"件"="건";
+"订单已生成，请勿修改收货地址"="주문서는 이미 생성되었으니, 물품 받는 주소를 수정하지 마시오.";
+"请添加收货地址"="상품 주소 추가";
+"订单数据不能为空"="주문 데이터를 비울 수 없습니다";
+"小计"="소계";
+"运费"="운임";
+"免运费"="운임 면제";
+"订单已生成，请勿修改备注"="주문서는 이미 생성되었으니, 비고 를 수정하지 마시오";
+"物流配送"="물류 배송";
+"订单备注"="주문서 비고";
+"请输入留言(选填)"="메모 입력 (선택)";
+"收货地址"="수납 주소";
+"新增地址"="신규 주소";
+"删除"="삭제";
+"确定要将此地址删除？"="이 주소를 삭제하시겠습니까?";
+"本次交易需支付"="이번 교역은 지불해야 한다.";
+"获取支付信息失败，请刷新订单"="지불 정보를 가져오는 데 실패하였으니 주문서를 새로 고쳐 주십시오";
+"请选择支付方式"="지불 방식 선택";
+"选择以下兑换方式"="이하 태환 방식 선택";
+"确认支付"="지급 확인";
+"请输入付款订单交易ID"="지불 주문서 거래 ID 를 입력하십시오";
+"本钱包支付"="본지갑 지불";
+"订单号不能为空"="주문 번호를 비울 수 없습니다";
+"付款方式不能为空"="지불 방식은 비워서는 안 된다.";
+"已将地址复制到粘贴板"="붙여넣기 위한 주소를 복사했습니다";
+"请使用"="사용하십시오";
+"钱包扫一扫支付"="지갑을 일소하다";
+"保存失败"="저장 실패";
+"已保存到相册"="앨범 저장";
+"订单提交成功，请您尽快兑换"="주문서 제출이 성공했으니 가능한 한 빨리 바꿔 주십시오";
+"应付金额:"="지급 금액:";
+"注意：在使用客户端兑换时，客户端显示到账金额应与上面的兑换金额一致"="주의: 클라이언트를 사용할 때, 클라이언트는 장부 금액과 일치해야 한다";
+"兑换后提交兑换使用的转账钱包地址区块链交易ID"="환전후 환전된 이체의 지갑 주소 구별 체인 ID";
+"点击复制付款地址"=" 결제 주소 복사 누르기 ";
+"提交"="제출하다";
+"您尚未添加收货地址"="물품 주소를 추가하지 않았습니다";
+"编辑"="편집";
+"添加地址"="주소 추가";
+"请选择"="선택";
+"请填写真实名字"="진실 이름 써주세요.";
+"请填写手机号"="핸드폰 번호를 적어 주세요.";
+"请填选择省市区"="도시 선택";
+"请填写详细地址"="상세한 주소를 적어 주세요.";
+"详细地址至少5个字"="자세한 주소는 적어도 다섯 글자.";
+"收件人"="수취인";
+"手机号"="핸드폰 번호";
+"省/市/区"="성/시";
+"详细地址"="주소";
+"设为默认"="기본 설정";
+"注意：为了确保能成功收货，请填写收货信息"="주의자: 물건을 잘 받을 수 있는 것을 확보하기 위해서 물품 수신 정보를 기입해 주십시오";
+"至少5个字，无需重复省市区"="적어도 5글자, 중복 성";
+"保存"="보존하다";
+"请选择"="선택";
+"综合排序"="종합 정렬";
+"价格从高到低"="가격은 높이에서 저렴하다";
+"价格从低到高"="가격은 낮은 것에서 높다";
+"人气排序"="인기 순위";
+"抱歉，搜索不到相关商品~"="죄송합니다. 관련 상품을 검색하지 못해요.";
+"销量优先"="판매량이 우선적이다.";
+"筛选"="선별하다";
+"最低价"="최저가";
+"最高价"="최고가";
+"不限"="제한하지 않다";
+"赠品"="경품";
+"团购"="공동구매";
+"限时折扣"="시한부 할인";
+"平台自营"="플랫폼 자영";
+"虚拟"="가상";
+"重置"="초기화";
+"筛选商品"="상품을 선별하다.";
+"商品详情"="상품 상세 상황";
+"获取商品信息失败"="상품 정보 가져오기 실패";
+"销量"="판매량";
+"送至"="보내다";
+"已选 默认"="기본 선택";
+"商品评论"="상품 평론";
+"好评率"="호평률";
+"人已评价"="평가";
+"描述相符"="묘사가 일치하다.";
+"服务态度"="서비스 태도";
+"推荐商品"="추천 상품";
+"加入购物车"="쇼핑카에 가입하다";
+"立即购买"="즉시 구매";
+"商品ID不能为空"="상품 ID 를 비워서는 안 된다.";
+"首页"="첫 페이지";
+"购物车1"="쇼핑 카";
+"购买数量"="구매 수량";
+"库存"="재고";
+"商品评论"="상품 평론";
+"加购同款"="함께 구입하다.";
+"评价"="평가";
+"差"="차";
+"一般"="일반";
+"好"="좋아요.";
+"很好"="좋다";
+"非常好"="아주 좋다";
+"为了能确保收货，请填写真实姓名"="물품 수취를 확보하기 위해서, 실명을 적어 주세요.";
+"收货人手机号"="수신자 핸드폰 번호";
+"立即支付"="즉시 지불하다";
+"价格区间"="가격 구간";
+"商品所在地"="상품 소재지";
+"商品类型"="상품 유형";
+"店铺类型"="가게 유형";
+"请输入搜索内容"="검색 내용을 입력하십시오";
+"搜索"="수색";
+"最近搜索"="최근 검색";
+"已售空"="이미 팔다";
+"发货速度"="발송 속도";
+"申请入驻"="입주 신청";
+
+"商家认证"="사업가 인증";
+"企业名称"="기업 명칭";
+"营业执照注册号"="영업 허가증 등록번호";
+"营业执照所在地"="영업허가증 소재지";
+"请选择所在地"="소재지를 선택하십시오";
+"联系电话"="연락전화";
+"营业执照图"="영업허가도표";
+"法人姓名"="법인 성명";
+"法人身份证号码"="법인 신분증 번호";
+"法身身份证"="법신 신분증";
+"正面图"="정면 그림";
+"背面图"="뒷면 그림";
+"销售的产品"="판매 제품";
+"同意并充值押金"="동의하고 보증금을 충당합니다.";
+
+
+
+"新闻"="뉴스";
+
+"文交所"="문교소";
+"社区"="커뮤니티";
+"空中课堂"="공중 수업";
+"交易所"="거래소";
+
+"银行卡号"="은행";
+"开户支行"="계좌를 개설하다";
+"详细住址"="상세한 주소";
+"邮箱"="메일박스";
+"请输入银行卡号"="은행 번호를 입력하십시오";
+"请选择开户支行"="은행 번호를 선택";
+"请输入详细住址"="상세한 주소를 입력하십시오";
+"请输入邮箱"="메일박스 입력";
+"点击同意即表示您已阅读并同意《智链生态商城协议》"="조회 동의 는 이미 읽으신 후 '지퍼 생태 상성 협의' 에 동의했다고 표시했다";
+
+"mute_notifications"="消息免打扰";
+"stick_on_top"="会话置顶";
+
+"智链生态"="지체생태";
+"My QR code"="나의 QR코드";
+"Scanning the QR code above and adding me as a friend"="위에 있는 QR코드를 스캔하여 친구추가 하세요";
+"Save QR code"="이미지 저장";
+
+"邀请码"="초청 코드";
+"余额"="잔액";
+"提币"="화폐";
+"团队人数"="팀수";
+"团队业绩"="팀 업적";
+"请输入提币数量"="화폐 수량을 입력하십시오";
+"注意事项："="주의 사항:";
+"最小提币数量为"="최소 화폐 수량";
+"此二维码仅为您的商城优惠二维码"="이 QR코드는 당신의 상가 가격만 할인 QR코드";
+"请输入商城邀请码"="상가 초청 코드를 입력하십시오";
+"立即绑定"="납치";
+"绑定商城邀请码"="상가 초청 코드 를 납치 하다";
+"总余额"="총잔액";
+"冻结"="동결";
+"商城"="상가";
+"我的店铺"="나의 가게";
+"VIP礼包专区"="VIP 예비 전구";
+"限时抢购专区"="제한 시 전구";
+"我的团队收益"="나의 단체 수익";
+"昨日个人消费"="어제 개인 소비";
+"昨日团队总消费"="어제 팀 총소비";
+"团队总消费"="단체 소비";
+"溯源码"="소원지 코드";
+"此二维码为您的商城溯源码"="이 QR코드가 당신의 상가 원본 부호";
+"复制溯源码"="복제 원본 부호";
+"VIP升级专区"="VIP 업그레이드 영역";
+"拍场"="촬영장";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
